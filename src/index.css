@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+body {
+  @apply bg-slate-600 text-slate-700 min-h-screen font-[Coming_soon];
+}
