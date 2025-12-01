@@ -1,8 +1,7 @@
 import { useState } from "react";
 import "./App.css";
-import Form from "./components/form";
+import Form from "./components/Form";
 import CardsList from "./components/CardsList";
-import Card from "./components/Card";
 
 function App() {
   const [flashcards, setFlashcards] = useState([]);
